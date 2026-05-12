@@ -72,4 +72,4 @@ Interactive commands available in the prompt:
 
 * RESET: Soft-reset the On-Board Computer (OBC) simulation.
 
-![Interface Preview](screenshot.png)
+![Interface Preview](Screenshot.png)
